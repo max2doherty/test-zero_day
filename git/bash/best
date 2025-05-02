@@ -1,2 +1,2 @@
-#!/bin/nash
-echo "Best"
+#!/bin/bash
+echo "This School is so cool!"
